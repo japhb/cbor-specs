@@ -141,7 +141,6 @@ d9 63 61                          # tag (25441)
 
 Finally, a completely empty capture has the following four-byte representation:
 
-
 ```
                                   # \()
 d9 63 61                          # tag (25441)
